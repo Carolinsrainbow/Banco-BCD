@@ -1,4 +1,4 @@
-# certificacion
+# Plataforma de Banco
 
 ## Project setup
 ```
